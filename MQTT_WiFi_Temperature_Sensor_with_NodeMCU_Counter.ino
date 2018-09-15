@@ -15,7 +15,7 @@ int C2_Count = 0;
 int C3_Count = 0;
 int Last_Value;
 int AC_LOAD = 5;    // Output to Opto Triac pin
-int dimming = 128;  // Dimming level (0-128)  0 = ON, 128 = OFF
+int dimming = 127;  // Dimming level (0-128)  0 = ON, 128 = OFF
 int setpms = 20;    // Milliseconds between each step
 uint8_t GPIO_Pin = 4;
 
