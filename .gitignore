@@ -1,0 +1,3 @@
+# ignore the config file
+config.h
+ex_config.h.bak
